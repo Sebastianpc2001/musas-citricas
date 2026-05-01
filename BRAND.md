@@ -1,56 +1,66 @@
 # Musas Cítricas - Brand Notes
 
 ## Core identity
-Musas Cítricas is not minimalist in the cold-tech sense. It is warm, handmade, appetizing, feminine, and emotionally expressive. The brand lives in the world of artisanal cakes, fruit-forward desserts, texture, softness, and personalized gifting.
+Musas Cítricas is a boutique fruit-based dessert brand. It feels warm, giftable, visual, feminine, and homemade in the best way. The brand should sell craving first, then product.
 
-## What the Instagram suggests
-The feed is built around:
-- close-up dessert photography
-- creamy textures and cake interiors
-- fruit accents like pineapple, lemon, raspberries, cherries, berries
-- warm bakery tones: cream, toasted brown, caramel, citrus yellow
-- text overlays directly on posts
-- a mix of product shots, packaging/promotional posts, and occasional intimate human/floral imagery
+## Clear take from the Instagram feed
+This is not an abstract editorial brand and not a generic bakery. It is:
+- bright and product-first
+- highly Instagram-native
+- built around close-up dessert visuals
+- soft, friendly, and gift-oriented
+- supported by campaign-style graphics, drop moments, and packaging language
+
+## What repeats in the feed
+- cookies, loaf cakes, pies, frosted slices, and assorted dessert boxes
+- fruit-based identity, especially citrus / pineapple / strawberry-adjacent visual language
+- cream, glaze, crumb, and topping texture
+- white or cream backgrounds
+- overlay text on product images
+- packaging moments and promotional graphic cards
+- floral or soft romantic supporting touches
 
 ## Visual direction
-- Mood: handcrafted, sweet, inviting, romantic, warm, expressive
-- Tone: artisanal, affectionate, giftable, slightly nostalgic, highly visual
-- Avoid: dark luxury for its own sake, sterile branding, startup aesthetics, hard geometric layouts
+- Mood: sweet, warm, approachable, feminine, delicious, giftable
+- Tone: boutique bakery with personality
+- Avoid: dark moody luxury, startup minimalism, over-designed concept branding, heavy text walls
 
 ## Palette
-- Cream: `#F7F1E8`
-- Butter: `#F1D9A6`
-- Citrus yellow: `#F4C542`
-- Toasted caramel: `#B77A45`
-- Berry cream: `#D7A1AE`
-- Chocolate: `#5A3826`
-- Deep ink: `#15110F`
+- Soft cream: `#FBF7F1`
+- Warm white: `#FFFDF9`
+- Butter: `#F2CF74`
+- Caramel: `#EFAA4D`
+- Berry pink: `#DF9FA7`
+- Chocolate brown: `#6A4332`
+- Accent red: `#C84A3E`
 
 ## Typography direction
-- Headings: editorial serif with warmth and softness
-- Body: modern clean sans-serif
-- Supporting overlays or labels can feel bolder and more promotional
-- Overall effect: pastry boutique meets Instagram-native campaign design
+- Headings: warm editorial serif with appetite and softness
+- Body: clean modern sans-serif
+- Labels: small uppercase, campaign-friendly, lightly promotional
 
-## Composition rules
-- Large product visuals or image placeholders should dominate
-- Close-up crops are better than distant catalog shots
-- Center food, keep props minimal
-- Use generous spacing but keep the page emotionally warm
-- A few highlighted promotional blocks are good, too many become noisy
+## Layout rules
+- Hero should feel like a bakery campaign, not a manifesto
+- Product blocks should be short, visual, and easy to scan
+- Use cards, collections, and grouped offerings
+- Product categories matter more than long storytelling paragraphs
+- Gifting and special drops deserve their own sections
 
 ## Content direction
-- Lead with sensory appeal and identity
-- Mention custom orders, boxes, cakes, and giftability
-- Copy should feel warm and irresistible, not corporate
-- Keep text punchy, visual, and customer-friendly
+Lead with:
+1. postres a base de frutas
+2. categories people can buy
+3. boxes / gifting / personalized orders
+4. brand warmth and visual appetite
+5. Instagram as the primary conversion surface
 
-## Product and offering cues from the feed
-- cakes and loaf-style bakes
-- lemon / pineapple / fruit-forward desserts
-- pies and cream-topped cakes
-- custom orders
-- packaging or gift-style bundles such as a "Musas Box"
+## Best site structure
+- Hero with short pitch and CTA
+- Favorites / categories section
+- Collections or special drops section
+- Personalized orders section
+- Short brand-feel section
+- Strong Instagram CTA
 
-## Current implementation note
-The current site scaffold should imitate the Instagram mood, not just the brand name. Future refinements should use more direct feed references, real product photography, packaging details, and exact copy from the brand when available.
+## Implementation note
+The site should feel like a digital extension of the Instagram grid: light, delicious, soft, campaign-aware, and easy to order from. When real product images are available, they should replace abstract placeholders immediately because imagery is the brand’s strongest asset.
