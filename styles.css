@@ -23,7 +23,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  background: linear-gradient(180deg, #fffdfa 0%, var(--bg) 100%);
+  background: linear-gradient(180deg, #6d3aa8 0%, #8b5bc7 100%);
   color: var(--text);
 }
 
